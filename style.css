@@ -6,7 +6,7 @@ body {
     font-family: "dilo world", sans-serif;
     padding: 0;
     margin: 0;
-    background: no-repeat url("./sea.jpg") 0 0 / cover;
+    background: no-repeat url("./sky.jpg") 0 0 / cover;
   }
   
   #game-container {
